@@ -50,7 +50,7 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/yourusername/ai-travel-assistant.git
+git clone https://github.com/JedSonpack/ai-travel-assistant.git
 cd ai-travel-assistant
 ```
 
@@ -245,7 +245,7 @@ npm install pinia
 
 ## 👨‍💻 作者
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@JedSonpack](https://github.com/JedSonpack)
 
 ## 🙏 致谢
 
@@ -257,7 +257,7 @@ npm install pinia
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 [Issue](https://github.com/yourusername/ai-travel-assistant/issues)
+- 提交 [Issue](https://github.com/JedSonpack/ai-travel-assistant/issues)
 - 发送邮件至：your.email@example.com
 
 ---
